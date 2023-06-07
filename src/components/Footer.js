@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
-    <div className="h-14 px-20 bg-slate-900 text-white flex items-center justify-between">
+    <div className="h-14 px-20 bg-slate-900 text-white flex flex-wrap items-center justify-between">
       <Link to="/">
         <h1 className="font-semibold text-2xl cursor-pointer">
           Movie <span className="text-yellow-600">App</span>
