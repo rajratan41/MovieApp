@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="h-14 px-20 bg-slate-900 text-white flex items-center justify-between">
       <Link to="/">
         <h1 className="font-semibold text-2xl cursor-pointer">
-          Movie <span className="text-yellow-300">App</span>
+          Movie <span className="text-yellow-600">App</span>
         </h1>
       </Link>
       <ul className="flex gap-8">
